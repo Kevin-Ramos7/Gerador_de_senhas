@@ -28,10 +28,10 @@ npm install
 
 4. Interaja com o programa:
 
-O programa irá solicitar:
-O tamanho da senha desejada.
-Se deseja incluir símbolos especiais na senha.
-Após isso, ele gerará a senha e exibirá no terminal.
+   O programa irá solicitar:
+  O tamanho da senha desejada.
+  Se deseja incluir símbolos especiais na senha.
+   Após isso, ele gerará a senha e exibirá no terminal.
 
 5. Tecnologias usadas
 Node.js: Ambiente de execução para JavaScript no servidor.
