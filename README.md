@@ -13,8 +13,8 @@ Este é um gerador de senhas personalizáveis feito em Node.js. O usuário pode 
 1. **Clone o repositório**:
 
 ```bash
-git clone https://github.com/Kevin-Ramos7/fornecedor-de-senhas.git
-cd fornecedor-de-senhas
+git clone https://github.com/Kevin-Ramos7/gerador-de-senhas.git
+cd gerador-de-senhas
 ```
 
 2. Instale as dependências (Se houver alguma):
